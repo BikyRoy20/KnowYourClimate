@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  color:rgb(253, 249, 253);
+  background:rgb(20, 62, 198);
+  padding:10px;
+}
